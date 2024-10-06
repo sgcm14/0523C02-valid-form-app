@@ -31,12 +31,19 @@ En la siguiente hoja pueden ver los ejemplos de un formulario que pregunta sobre
 
 —------------ 👇 Formulario —------------------
 
+![](https://raw.githubusercontent.com/sgcm14/0523C02-valid-form-app/refs/heads/main/src/assets/Captura1.PNG)
+>  Pantalla de formulario
+
 
 —------------ 👇 Mensaje de Error —------------------
 
+![](https://raw.githubusercontent.com/sgcm14/0523C02-valid-form-app/refs/heads/main/src/assets/Captura2.PNG)
+>  Pantalla de formulario con errores
 
 —------------ 👇 Card con los datos ingresados —------------------
 
+![](https://raw.githubusercontent.com/sgcm14/0523C02-valid-form-app/refs/heads/main/src/assets/Captura3.PNG)
+>  Pantalla de card con los datos ingresados
 
 
 **Paso 1: crear los componentes.**
